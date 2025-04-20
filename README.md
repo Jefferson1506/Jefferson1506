@@ -72,9 +72,10 @@ Me caracterizo por tener habilidades para diseñar código **limpio, reutilizabl
 
 ---
 
-## 📈 Estadísticas de GitHub
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Estadísticas de GitHub:</h2> 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffersonpalacio&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonpalacio&layout=compact&theme=radical"/>
-</p
+[![](https://github-readme-stats.vercel.app/api?username=Jefferson1506&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jefferson1506&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+
