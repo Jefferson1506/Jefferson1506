@@ -1,16 +1,93 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jefferson David Palacio Lozada
 
-<!--
-**Jefferson1506/Jefferson1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
 
-Here are some ideas to get you started:
+Soy **Ingeniero de Sistemas** con enfoque en el desarrollo **frontend** y **aplicaciones móviles**. Me apasiona crear soluciones digitales que sean intuitivas, escalables y visualmente atractivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi especialidad está en el desarrollo de apps móviles con **Flutter**, pero también tengo experiencia en desarrollo web. Me considero un profesional **versátil** que puede aportar valor en ambos mundos.
+
+Me caracterizo por tener habilidades para diseñar código **limpio, reutilizable y mantenible**, siguiendo **buenas prácticas de programación** y aplicando **patrones de diseño** cuando es necesario. Soy una persona **proactiva**, con habilidades de **comunicación efectiva**, **liderazgo en proyectos** y **trabajo en equipo**.
+
+---
+
+## 💡 Competencias
+
+- Diseño y arquitectura de software escalable
+- Desarrollo frontend móvil y web
+- Buen manejo de estados y optimización de rendimiento
+- Consumo de APIs RESTful y persistencia local
+- Patrones de diseño (MVVM, Repository, etc.)
+- Gestión de versiones con Git
+- Colaboración con metodologías ágiles (Scrum / Kanban)
+- Trabajo en equipo y liderazgo técnico
+
+---
+
+## 🛠 Herramientas de desarrollo
+
+- Visual Studio Code
+- Android Studio
+- Xcode
+- Postman
+- Git & GitHub
+- Figma
+
+---
+
+## 💻 Lenguajes
+
+- Dart
+- JavaScript
+- TypeScript
+- HTML / CSS
+- SQL
+- Bash
+
+---
+
+## ⚙️ Frameworks
+
+- Flutter
+- React (básico)
+- Node.js (básico)
+- Firebase
+- Riverpod / Provider
+- Dio
+- Hive / SQFlite
+
+---
+
+## 🚀 DevOps
+
+- GitHub Actions
+- Firebase Hosting / Firestore
+- App Distribution
+- CI/CD básico
+
+---
+
+## 🧩 Otros
+
+- Responsive Design
+- Control de versiones
+- Consumo de servicios HTTP
+- Manejo de errores
+- Accesibilidad
+- Testing básico
+
+---
+
+## 📂 Proyectos destacados
+
+- 🚑 **App de Gestión de Traslados Médicos** – Aplicación Flutter para registro y seguimiento de pacientes durante traslados médicos.
+- 🧾 **Sistema de Historias Clínicas** – Plataforma para gestionar la información médica de pacientes, evolución y tratamientos.
+- 🌐 **Sitios Web Responsivos** – Desarrollo de páginas web adaptadas a distintos dispositivos, con diseño limpio y moderno.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffersonpalacio&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonpalacio&layout=compact&theme=radical"/>
+</p
