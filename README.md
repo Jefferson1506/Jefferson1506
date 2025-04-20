@@ -15,9 +15,9 @@ Me caracterizo por tener habilidades para diseñar código **limpio, reutilizabl
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/jeffpal21">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jeffpalacio/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Jefferson1506">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
@@ -102,10 +102,14 @@ Me caracterizo por tener habilidades para diseñar código **limpio, reutilizabl
 
 <h2 align="center" style="margin: 5px 10px;">Estadísticas de GitHub:</h2> 
 
-<a href="https://github.com/Davekibh"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" /></a>
-<br> <br>
-[![](https://github-readme-stats.vercel.app/api?username=Jefferson1506&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Jefferson1506)
-<br> <br>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Jefferson1506&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Jefferson1506)
+| ![Estadísticas de GitHub de Jefferson](https://github-readme-stats.vercel.app/api?username=Jefferson1506&show_icons=true&theme=tokyonight&hide_border=true&locale=es) | ![Racha de GitHub de Jefferson](https://github-readme-streak-stats.herokuapp.com/?user=Jefferson1506&show_icons=true&theme=tokyonight&hide_border=true&locale=es) |
+| --- | --- |
+| ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson1506&show_icons=true&theme=tokyonight&hide_border=true&locale=es) | ![Estrellas de GitHub](https://github-readme-stats.vercel.app/api?username=Jefferson1506&show_icons=true&locale=es&count_private=true&hide_rank=true&custom_title=Mis%20Estad%C3%ADsticas%20de%20GitHub&disable_animations=true&theme=tokyonight&hide_border=true)
 
+---
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+---
