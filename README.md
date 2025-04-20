@@ -2,80 +2,84 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero de Sistemas** con enfoque en el desarrollo **frontend**. Me apasiona crear soluciones digitales que sean intuitivas, escalables y visualmente atractivas.
+Soy **Ingeniero de Sistemas** enfocado en el desarrollo **frontend**. Me apasiona crear soluciones digitales que sean intuitivas, escalables y visualmente atractivas.
 
-Mi especialidad está en el desarrollo de apps móviles con **Flutter**, pero también tengo experiencia en desarrollo web. Me considero un profesional **versátil** que puede aportar valor en ambos mundos.
+Especializado en **Flutter** para apps móviles, con experiencia también en desarrollo web. Me considero un profesional **versátil**, con habilidades para construir código **limpio, reutilizable y mantenible**, aplicando buenas prácticas y patrones de diseño.
 
-Me caracterizo por tener habilidades para diseñar código **limpio, reutilizable y mantenible**, siguiendo **buenas prácticas de programación** y aplicando **patrones de diseño** cuando es necesario. Soy una persona **proactiva**, con habilidades de **comunicación efectiva**, **liderazgo en proyectos** y **trabajo en equipo**.
+Además, tengo fortalezas en la **comunicación efectiva**, **liderazgo de proyectos** y el **trabajo colaborativo**.
 
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
-  <p align="center">
-           <a href="mailto:palaciojefferson30@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+573178444562" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-	      <a href="https://www.linkedin.com/in/jeffpalacio/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="jefferson" height="30"/></a>
-    </p>
-<br> 
+
+
+### 📫 Contáctame
+<p align="center">
+  <a href="mailto:palaciojefferson30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/+573178444562"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jeffpalacio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 align="center" style="margin: 5px 10px;">🛠️ Herramientas de desarrollor:</h2> 
 
+## 🧠 Competencias clave
 
+- 🧩 **Pensamiento lógico y estructurado**
+- 🎯 **Enfoque en el usuario y experiencia UX/UI**
+- 🛠️ **Desarrollo modular y escalable**
+- 🗂️ **Gestión ágil de proyectos**
+- 🔍 **Detección y resolución de bugs**
+- 🧑‍🏫 **Mentoría y liderazgo técnico**
+- 🌐 **Documentación clara y efectiva**
 
+---
+
+## 🛠️ Herramientas y Tecnologías
 
 <table align="center">
   <tr>
-    <td align="center">
-      <h3>🎯 Lenguajes</h3><br>
+    <td align="center" colspan="2">
+      <strong>🎯 Lenguajes</strong><br><br>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <h3>⚙️ Frameworks</h3><br>
+      <strong>⚙️ Frameworks & Libs</strong><br><br>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+    <td align="center">
+      <strong>💻 IDEs</strong><br><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase_Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h3>🛠️ IDEs</h3><br>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    </td>
-    <td align="center">
-      <h3>📦 Backend & APIs</h3><br>
+      <strong>☁️ Backend / APIs</strong><br><br>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <h3>📋 Gestión de Proyectos</h3><br>
+      <strong>📋 Gestión de Proyectos</strong><br><br>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-    </td>
-    <td align="center">
-      <h3>🎨 Diseño</h3><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canvas-007ACC?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <h3>🛠️ Control de Versiones</h3><br>
+    <td align="center">
+      <strong>🎨 Diseño</strong><br><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+    </td>
+    <td align="center">
+      <strong>🔄 Control de versiones</strong><br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
@@ -83,6 +87,7 @@ Me caracterizo por tener habilidades para diseñar código **limpio, reutilizabl
   </tr>
 </table>
 
+---
 
 <h2 align="center" style="margin: 5px 10px;">Estadísticas de GitHub:</h2> 
 
