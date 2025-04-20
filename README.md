@@ -24,67 +24,64 @@ Me caracterizo por tener habilidades para diseñar código **limpio, reutilizabl
 <br> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-## 🛠 Herramientas de desarrollo
 
-- Visual Studio Code
-- Android Studio
-- Xcode
-- Postman
-- Git & GitHub
-- Figma
+<h2 align="center" style="margin: 5px 10px;">🛠️ Herramientas de desarrollor:</h2> 
 
----
 
-## 💻 Lenguajes
 
-- Dart
-- JavaScript
-- TypeScript
-- HTML / CSS
-- SQL
-- Bash
 
----
-
-## ⚙️ Frameworks
-
-- Flutter
-- React (básico)
-- Node.js (básico)
-- Firebase
-- Riverpod / Provider
-- Dio
-- Hive / SQFlite
-
----
-
-## 🚀 DevOps
-
-- GitHub Actions
-- Firebase Hosting / Firestore
-- App Distribution
-- CI/CD básico
-
----
-
-## 🧩 Otros
-
-- Responsive Design
-- Control de versiones
-- Consumo de servicios HTTP
-- Manejo de errores
-- Accesibilidad
-- Testing básico
-
----
-
-## 📂 Proyectos destacados
-
-- 🚑 **App de Gestión de Traslados Médicos** – Aplicación Flutter para registro y seguimiento de pacientes durante traslados médicos.
-- 🧾 **Sistema de Historias Clínicas** – Plataforma para gestionar la información médica de pacientes, evolución y tratamientos.
-- 🌐 **Sitios Web Responsivos** – Desarrollo de páginas web adaptadas a distintos dispositivos, con diseño limpio y moderno.
-
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🎯 Lenguajes</h3><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <h3>⚙️ Frameworks</h3><br>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🛠️ IDEs</h3><br>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    </td>
+    <td align="center">
+      <h3>📦 Backend & APIs</h3><br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>📋 Gestión de Proyectos</h3><br>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+    </td>
+    <td align="center">
+      <h3>🎨 Diseño</h3><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canvas-007ACC?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🛠️ Control de Versiones</h3><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center" style="margin: 5px 10px;">Estadísticas de GitHub:</h2> 
