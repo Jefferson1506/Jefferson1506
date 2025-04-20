@@ -1,8 +1,15 @@
 <h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,Soy Jefferson David Palacio Lozada</h1>
+<br>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero de Sistemas;Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+<br>
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero de Sistemas** enfocado en el desarrollo **frontend**. Me apasiona crear soluciones digitales que sean intuitivas, escalables y visualmente atractivas.
+Enfocado en el desarrollo **frontend**. Me apasiona crear soluciones digitales que sean intuitivas, escalables y visualmente atractivas.
 
 Especializado en **Flutter** para apps móviles, con experiencia también en desarrollo web. Me considero un profesional **versátil**, con habilidades para construir código **limpio, reutilizable y mantenible**, aplicando buenas prácticas y patrones de diseño.
 
