@@ -67,6 +67,7 @@ Además, tengo fortalezas en la **comunicación efectiva**, **liderazgo de proye
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase_Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+     <img src="https://img.shields.io/badge/Jasper_Soft-00B0BA?style=for-the-badge&logo=jaspersoft&logoColor=white" />
     </td>
   </tr>
   <tr>
