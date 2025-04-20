@@ -10,19 +10,6 @@ Me caracterizo por tener habilidades para diseñar código **limpio, reutilizabl
 
 ---
 
-## 💡 Competencias
-
-- Diseño y arquitectura de software escalable
-- Desarrollo frontend móvil y web
-- Buen manejo de estados y optimización de rendimiento
-- Consumo de APIs RESTful y persistencia local
-- Patrones de diseño (MVVM, Repository, etc.)
-- Gestión de versiones con Git
-- Colaboración con metodologías ágiles (Scrum / Kanban)
-- Trabajo en equipo y liderazgo técnico
-
----
-
 ## 🛠 Herramientas de desarrollo
 
 - Visual Studio Code
