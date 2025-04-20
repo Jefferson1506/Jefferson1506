@@ -8,24 +8,22 @@ Mi especialidad está en el desarrollo de apps móviles con **Flutter**, pero ta
 
 Me caracterizo por tener habilidades para diseñar código **limpio, reutilizable y mantenible**, siguiendo **buenas prácticas de programación** y aplicando **patrones de diseño** cuando es necesario. Soy una persona **proactiva**, con habilidades de **comunicación efectiva**, **liderazgo en proyectos** y **trabajo en equipo**.
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
   <p align="center">
-           <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+           <a href="mailto:palaciojefferson30@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+      <a href="https://wa.me/+573178444562" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-	      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+	      <a href="https://www.linkedin.com/in/jeffpalacio/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="jefferson" height="30"/></a>
     </p>
 <br> 
----
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## 🛠 Herramientas de desarrollo
 
 - Visual Studio Code
