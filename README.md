@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero de Sistemas** con enfoque en el desarrollo **frontend** y **aplicaciones móviles**. Me apasiona crear soluciones digitales que sean intuitivas, escalables y visualmente atractivas.
+Soy **Ingeniero de Sistemas** con enfoque en el desarrollo **frontend**. Me apasiona crear soluciones digitales que sean intuitivas, escalables y visualmente atractivas.
 
 Mi especialidad está en el desarrollo de apps móviles con **Flutter**, pero también tengo experiencia en desarrollo web. Me considero un profesional **versátil** que puede aportar valor en ambos mundos.
 
