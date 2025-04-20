@@ -77,6 +77,6 @@ Me caracterizo por tener habilidades para diseñar código **limpio, reutilizabl
 
 [![](https://github-readme-stats.vercel.app/api?username=Jefferson1506&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Jefferson1506)
 <br> <br>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Jefferson1506&theme=material-palenight)](https://github.com/Jefferson1506)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jefferson1506&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Jefferson1506)
 </div>
 
